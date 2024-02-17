@@ -2,7 +2,7 @@
 
 ### Skills
 
-<div style="display:flex; justify-content:center;">
+<div style="display:flex">
   <div style="margin: 0px 5px;">
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" width="36" height="36" alt="JavaScript" /></a>
   </div>
