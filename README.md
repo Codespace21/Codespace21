@@ -14,12 +14,12 @@
 
 ### Statics
 
-<!-- <div id="header" align="center" style="width:100%; display:flex;  background-color:red">
-  <img src="https://github-readme-stats.vercel.app/api?username=codespace21&include_all_commits=true&count_private=true&show_icons=true&theme=dark" alt="my Github Stats"/>
+<div id="skills" align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codespace21&layout=compact&theme=dark"/>
+</div>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"/>
-</div> -->
+<br>
 
-<div id="header" align="center">
+<div id="views" align="center">
   <img src="https://komarev.com/ghpvc/?username=codespace21&style=flat-square&color=blue" alt="" />
 </div>
