@@ -37,6 +37,10 @@ I’m motivated by working on personal projects where I can apply my skills and 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codespace21&layout=compact&theme=dark"/>
 </div>
 
+<div id="skills" align="center">
+<a href="https://app.daily.dev/codespace"><img src="https://api.daily.dev/devcards/v2/GqbZ1wrdAUpxpyLCDDxd7.png?r=owt&type=default" width="325" alt="Codespace21's Dev Card"/></a>
+</div>
+
 <br>
 
 <div id="views" align="center">
