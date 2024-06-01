@@ -44,6 +44,12 @@ I’m motivated by working on personal projects where I can apply my skills and 
 <br>
 
 <div id="skills" align="center">
+<a href="https://leetcode.com/u/codespace21/"><img src="https://leetcard.jacoblin.cool/codespace21?theme=dark&border=0&radius=20&ext=activity" width="325" alt="Codespace21's Dev Card"/></a>
+</div>
+
+<br>
+
+<div id="skills" align="center">
 <a href="https://app.daily.dev/codespace"><img src="https://api.daily.dev/devcards/v2/GqbZ1wrdAUpxpyLCDDxd7.png?r=owt&type=default" width="325" alt="Codespace21's Dev Card"/></a>
 </div>
 
